@@ -24,7 +24,7 @@ Aloha.host[*].iaTime = exponential(2s)
 description = "pure Aloha, optimal load"
 # near optimal load, channel utilization is near theoretical maximum 1/2e
 Aloha.host[*].iaTime = exponential(6s)
-repeat = 5
+repeat = 3
 
 [PureAloha3]
 description = "pure Aloha, low traffic"
