@@ -28,4 +28,3 @@ simple Host
         bool controlAnimationSpeed = default(true);
         @display("i=device/pc_s");
 }
-

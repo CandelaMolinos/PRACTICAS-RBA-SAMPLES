@@ -51,4 +51,3 @@ class Server : public cSimpleModule
 }; //namespace
 
 #endif
-
